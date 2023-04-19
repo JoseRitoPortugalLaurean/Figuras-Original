@@ -6,7 +6,7 @@ class Figura {
     this.fillred = 255;
     this.fillgreen = 87;
     this.fillblue = 57;
-    this.velocidad = createVector(vx,vy);
+    this.velocidad = createVector(vx, vy);
   }
   update()
   {
