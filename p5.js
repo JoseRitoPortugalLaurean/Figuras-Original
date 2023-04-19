@@ -189,7 +189,7 @@
                       'type': 'Number'
                     },
                     {
-                      'name': 'v3',
+              np        'name': 'v3',
                       'description': '<p>blue or brightness value\n                                relative to the current color range</p>\n',
                       'type': 'Number'
                     },
